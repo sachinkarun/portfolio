@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import Intro from './components/intro/Intro';
+import Intro1 from './components/intro/Intro1';
 import About from './components/about/About';
 import ProductList from './components/productList/ProductList';
 import Contact from './components/contact/Contact';
@@ -14,7 +14,7 @@ const App = () => {
   return (
     <div style={{backgroundColor:darkMode ? "#222" : "white", color:darkMode ? "white" : "#222"}}>
       <Toggle/>
-      <Intro mode={darkMode}/>
+      <Intro1 mode={darkMode}/>
       <About mode={darkMode}/>
       <ProductList mode={darkMode} />
       <Contact />

@@ -1,0 +1,111 @@
+.i1{
+    display: flex;
+    height: 100vh;
+    background-color: #21212b;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.i2{
+    display: flex;
+    height: 100vh;
+    background-color: #333;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.i-name{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: #21212b;
+    position: absolute;
+}
+
+.i-desc{
+    color: white;
+    font-size: 23px;
+    background-color: #21212b;
+    position: absolute;
+    margin-top: 95px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.i-name2{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: #333;
+    position: absolute;
+}
+
+.i-desc2{
+    color: white;
+    font-size: 23px;
+    background-color: #333;
+    position: absolute;
+    margin-top: 95px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    transform: rotate(60deg);
+}
+
+.box2{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    position: absolute;
+    transform: rotate(45deg);
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    position: absolute;
+    transform: rotate(30deg);
+}
+
+@media screen and (max-width: 480px){
+ 
+    .i-name{
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        background-color: #21212b;
+        position: absolute;
+    }
+    
+    .i-desc{
+        color: white;
+        font-size: 17px;
+        background-color: #21212b;
+        position: absolute;
+        margin-top: 35px;
+        font-family: 'Oleo Script Swash Caps', cursive;
+    }
+    
+    .i-name2{
+        color: white;
+        font-size: 50px;
+        font-weight: bold;
+        background-color: #333;
+        position: absolute;
+    }
+    
+    .i-desc2{
+        color: white;
+        font-size: 17px;
+        background-color: #333;
+        position: absolute;
+        margin-top: 35px;
+        font-family: 'Oleo Script Swash Caps', cursive;
+    }
+
+}

@@ -4,7 +4,7 @@
     flex-direction: column;
     align-items: center;
     text-align: center;
-    background-color: #d9d9d9;
+    background-color: #21212b;
 }
 
 .pl2{
@@ -23,11 +23,13 @@
 .pl-title{
     font-size: 50px;
     font-weight: 600;
+    color: white;
 }
 
 .pl-desc{
     margin-bottom: 20px;
     font-size: 18px;
+    color: white;
 }
 
 .pl-list{
