@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.99b6a599.css",
-    "main.js": "/portfolio/static/js/main.bc3e0661.js",
+    "main.css": "/portfolio/static/css/main.9035f1a4.css",
+    "main.js": "/portfolio/static/js/main.4a8773d0.js",
     "static/media/gamingApp.jpg": "/portfolio/static/media/gamingApp.8ea4e49134a59ca7fa68.jpg",
     "static/media/instagram.jpg": "/portfolio/static/media/instagram.cffb5bb169b4784305a5.jpg",
     "static/media/forum1.png": "/portfolio/static/media/forum1.4620f82cfde27d6fe8ec.png",
     "static/media/blogapp.jpg": "/portfolio/static/media/blogapp.d9c745943fded70f7f6a.jpg",
     "static/media/travelblog.jpg": "/portfolio/static/media/travelblog.f2339a884cbb91db80b7.jpg",
     "static/media/gatepass1.jpg": "/portfolio/static/media/gatepass1.888112a4872abd731aa8.jpg",
-    "static/media/image.png": "/portfolio/static/media/image.b8196a31b8b31243ea58.png",
     "static/media/me.jpg": "/portfolio/static/media/me.80f57fc082d08dde083e.jpg",
     "static/media/email.png": "/portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.7a5eab93c7daf7d2ceeb.png",
     "static/media/phone.png": "/portfolio/static/media/phone.d90a6d23cf5129d853bb.png",
     "static/media/moon.png": "/portfolio/static/media/moon.3bea3d398a25611d421b.png",
     "index.html": "/portfolio/index.html",
-    "main.99b6a599.css.map": "/portfolio/static/css/main.99b6a599.css.map",
-    "main.bc3e0661.js.map": "/portfolio/static/js/main.bc3e0661.js.map"
+    "main.9035f1a4.css.map": "/portfolio/static/css/main.9035f1a4.css.map",
+    "main.4a8773d0.js.map": "/portfolio/static/js/main.4a8773d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.99b6a599.css",
-    "static/js/main.bc3e0661.js"
+    "static/css/main.9035f1a4.css",
+    "static/js/main.4a8773d0.js"
   ]
 }
